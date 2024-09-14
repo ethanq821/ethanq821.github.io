@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "person_pic.jpg"
+  name             : "Ethan Zixuan Qu"
+  pronouns         : "he/his"  
+  bio              : "Ethan Zixuan Qu is a student at the University of Illinois at Urbana-Champaign studying Computer Engineering. He is interested in cyber security, AI tech and machine learning."
+  location         : "Hangzhou, China"
+  employer         : "University of Illinois Urbana-Champaign"
+  uri              : "http://ethanq821.github.io"
+  email            : "zixuanq3@illinois.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
